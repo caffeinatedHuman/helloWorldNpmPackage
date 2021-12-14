@@ -1,0 +1,19 @@
+{
+  "name": "@maniac-tech/helloworldnpmpackage",
+  "version": "1.0.0",
+  "description": "A sample repo to understand how to create a NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caffeinatedHuman/helloWorldNpmPackage.git"
+  },
+  "author": "Abhishek Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caffeinatedHuman/helloWorldNpmPackage/issues"
+  },
+  "homepage": "https://github.com/caffeinatedHuman/helloWorldNpmPackage#readme"
+}
