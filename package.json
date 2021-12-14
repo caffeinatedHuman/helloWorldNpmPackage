@@ -1,6 +1,6 @@
 {
   "name": "@maniac-tech/helloworldnpmpackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sample repo to understand how to create a NPM package",
   "main": "index.js",
   "scripts": {
