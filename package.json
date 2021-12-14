@@ -1,5 +1,5 @@
 {
-  "name": "helloworldnpmpackage",
+  "name": "@maniac-tech/helloworldnpmpackage",
   "version": "1.0.0",
   "description": "A sample repo to understand how to create a NPM package",
   "main": "index.js",
